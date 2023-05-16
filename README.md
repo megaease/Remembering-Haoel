@@ -13,10 +13,13 @@ PR一旦被接受，我们会更新ReadME中的Index 以方便快速索引到您
 
 # 记录索引
 
-- [kevinzhou 与 左耳朵的 故事](./kevinzhow/Memory.MD) 原文：https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh
-- [tg123 与 左耳朵的 故事](./tg123/Memory.MD) 原文： https://twitter.com/farmer1992/status/1658055866992709632
-- [strongant 与 左耳朵的故事](./strongant/Memory.MD)
-- [monswag 与 左耳朵的一面之缘](./monswag/Memory.MD)
+- [kevinzhou 与左耳朵的故事](./kevinzhow/Memory.MD) 原文：https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh
+- [tg123 与左耳朵的故事](./tg123/Memory.MD) 原文： https://twitter.com/farmer1992/status/1658055866992709632
+- [strongant 与左耳朵的故事](./strongant/Memory.MD)
+- [monswag 与左耳朵的一面之缘](./monswag/Memory.MD)
+- [yyx990803 与左耳朵的故事](./yyx990803/Memory.md)
+- [Lowei 与左耳朵的故事](./Lowei/Memory.MD)
+- [benja-wu 与左耳朵的故事](./benja-wu/Memory.MD)
 
 # TODO
 
