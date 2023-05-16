@@ -15,11 +15,12 @@ PR一旦被接受，我们会更新ReadME中的Index 以方便快速索引到您
 
 - [kevinzhou 与 左耳朵的 故事](./kevinzhow/Memory.MD) 原文：https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh
 - [tg123 与 左耳朵的 故事](./tg123/Memory.MD) 原文： https://twitter.com/farmer1992/status/1658055866992709632
-
+- [strongant 与 左耳朵的故事](./strongant/Memory.MD)
+- [monswag 与 左耳朵的一面之缘](./monswag/Memory.MD)
 
 # TODO
 
 - [ ] 左耳朵耗子的推文记录 
 - [ ] 左耳朵耗子的技术分享视频 外链整理
-- [ ] 左耳朵耗子的视频（非技术）外联整理
+- [ ] 左耳朵耗子的视频（非技术）外链整理
 - [ ] 其他记录
