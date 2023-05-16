@@ -20,6 +20,7 @@ PR一旦被接受，我们会更新ReadME中的Index 以方便快速索引到您
 - [yyx990803 与左耳朵的故事](./yyx990803/Memory.md)
 - [Lowei 与左耳朵的故事](./Lowei/Memory.MD)
 - [benja-wu 与左耳朵的故事](./benja-wu/Memory.MD)
+- [shawyeok 与左耳朵的故事](./shawyeok/Memory.md)
 
 # TODO
 
