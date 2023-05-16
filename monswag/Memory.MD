@@ -28,3 +28,6 @@
 
 虽然我与皓哥只有那一面之缘，但依然觉得惋惜，也心怀感激。
 就像 David Bowie will never die 一样，陈皓也是。
+
+![IMG_2352.jpeg](IMG_2352.jpeg)
+![IMG_2354.jpeg](IMG_2354.jpeg)
