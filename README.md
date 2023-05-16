@@ -9,3 +9,17 @@
 PR一旦被接受，我们会更新ReadME中的Index 以方便快速索引到您和陈皓的故事。
 
 另外： 陈皓的追思网站我们也在制作中不久将会推出。
+
+
+# 记录索引
+
+[kevinzhou 与 左耳朵的 故事](./kevinzhow/Memory.MD) 原文：https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh
+[tg123 与 左耳朵的 故事](./tg123/Memory.MD) 原文： https://twitter.com/farmer1992/status/1658055866992709632
+
+
+# TODO
+
+- [ ] 左耳朵耗子的twttier 言论记录 
+- [ ] 左耳朵耗子的技术分享视频 外链整理
+- [ ] 左耳朵耗子的视频（非技术）外联整理
+- [ ] 其他记录
