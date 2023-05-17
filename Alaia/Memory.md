@@ -10,4 +10,4 @@
 ### 真想告诉您我现在换了工作环境又重燃了斗志
 ### 谢谢
 
-![image](https://github.com/HeyAlaia/Remembering-Haoel/assets/38177246/af449160-9443-4699-ac7f-105455da0f64)
+![名片](./memory.png)
