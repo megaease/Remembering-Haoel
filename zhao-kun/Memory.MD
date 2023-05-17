@@ -87,7 +87,8 @@ R.I.P
 ![./images](images/jnj_2.jpg)
 
 耗子大学时非常喜欢的歌曲，代他在这里和大家分享
-[!["Dying To Be Loved" by The Electric Boys](https://img.youtube.com/vi/punvkCJlMdE/0.jpg)](https://www.youtube.com/watch?v=punvkCJlMdE)
 
-[!["艳阳天专辑" by 窦唯](https://img.youtube.com/vi/GVPV1mhThEw/0.jpg)](https://www.youtube.com/watch?v=GVPV1mhThEw&list=PL27GYWxXTgN0yINy6sFIm7MmU4xHOQaip)
+[!["Dying To Be Loved" by The Electric Boys](https://img.youtube.com/vi/punvkCJlMdE/0.jpg)](https://www.youtube.com/watch?v=punvkCJlMdE)  
+
+[!["艳阳天专辑" by 窦唯](https://img.youtube.com/vi/GVPV1mhThEw/0.jpg)](https://www.youtube.com/watch?v=GVPV1mhThEw&list=PL27GYWxXTgN0yINy6sFIm7MmU4xHOQaip)  
 
