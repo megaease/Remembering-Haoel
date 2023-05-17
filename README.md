@@ -10,6 +10,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 
 另外：陈皓的追思网站我们也在制作中不久将会推出。
 
+> 此外我们还会收录陈皓的推文， 一些技术分享视频外部链接， 以及非技术的视频的外部链接， 以及一些广为传播的关于陈皓的文章。
 
 # 记录索引
 
@@ -28,12 +29,23 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
   - [来自于XF同学的朋友圈回忆](./zhao-kun/Memory.MD#来自与同学xf的朋友圈回忆)
   - [怀念耗子 - jnj](./zhao-kun/Memory.MD#怀念耗子jnj)
 - [agentwyz - upload memeory](./agentwyz/memeory.md)
+- [lijinliangyihao  - 我了解的陈皓](./lijinliangyihao/Memory.MD)
+- [repoog - the memories of Haoel from repoog](./repoog/Memory.MD)
+- [zhongl - Mermory from zhongl](./zhongl/Mermory.MD)
+- [ericliang - Memory with Heoel by Yile](./ericliang/Memory.MD)
+- [nickyfoto - 纪念耗子](./nickyfoto/Memory.MD)
+- [bensinos - Bensinos' memory of haoel](./bensinos/Memory.MD)
+- [HeyAlaia - memory by Alaia](./HeyAlaia/Memory.md)
+- [tulvgengenr - R.I.P 左耳朵耗子](./tulvgengenr/Memory.MD)
+- [CaliCastle - 陈皓：以磊落之心，点亮科技之光](./CaliCastle/Memory.md)
+
+
+# 推文
 - [推文 (仅公开内容)](./Tweets/)
   - [Web Archive (archive.org)](https://archive.org/details/haoel_tweets)
 
 # TODO
 
-- [x] 左耳朵耗子的推文记录 
 - [ ] 左耳朵耗子的技术分享视频 外链整理
 - [ ] 左耳朵耗子的视频（非技术）外链整理
 - [ ] 其他记录
