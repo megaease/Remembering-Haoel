@@ -28,11 +28,12 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
   - [来自于XF同学的朋友圈回忆](./zhao-kun/Memory.MD#来自与同学xf的朋友圈回忆)
   - [怀念耗子 - jnj](./zhao-kun/Memory.MD#怀念耗子jnj)
 - [agentwyz - upload memeory](./agentwyz/memeory.md)
- 
+- [推文 (仅公开内容)](./Tweets/)
+  - [Web Archive (archive.org)](https://archive.org/details/haoel_tweets)
 
 # TODO
 
-- [ ] 左耳朵耗子的推文记录 
+- [x] 左耳朵耗子的推文记录 
 - [ ] 左耳朵耗子的技术分享视频 外链整理
 - [ ] 左耳朵耗子的视频（非技术）外链整理
 - [ ] 其他记录
