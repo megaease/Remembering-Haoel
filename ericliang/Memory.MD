@@ -1,6 +1,6 @@
 ## 这个漫长的创业的季节
 
-作者[@一乐](https://www.weibo.com/iyile)，原文发表于公众号[一乐来了](https://mp.weixin.qq.com/s/hr9frcFLtkIPGUro9DSkwA)
+作者[@一乐](https://www.weibo.com/iyile)，原文发表于公众号[一乐来了](https://mp.weixin.qq.com/s/rZvIPCSpq-5l7PMe3IGoEA)
 
 >> 谨以此文缅怀陈皓(@左耳朵耗子)。
 
