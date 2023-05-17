@@ -23,6 +23,9 @@ PR一旦被接受，我们会更新ReadME中的Index 以方便快速索引到您
 - [shawyeok 与左耳朵的故事](./shawyeok/Memory.md)
 - [jxd134 与左耳朵的故事](./jxd134/Memory.MD)
 - [sonofmagic's memory of haoel](./sonofmagic/Memory.md)
+- [zhao-kun 同学们和左耳朵的故事](./zhao-kun/Memory.MD)
+  - [怀念陈皓同学（来自于同学MHC）](./zhao-kun/Memory.MD#怀念陈皓同学-来自同学mhc)
+  - [来自于XF同学的朋友圈回忆](./zhao-kun/Memory.MD#来自与同学xf的朋友圈回忆)
  
 
 # TODO
