@@ -77,17 +77,18 @@ R.I.P
 
 ![./images](images/jnj_1.jpg)
 
-```
-陈皓突如其来的幽默让人印象深刻，记得大学毕业后，有一次在顺城街一个清真馆子吃饭，服务员小姑娘不小心把茶壶里的热水滴到他的大腿上，正在紧张想要道歉，陈皓闭眼做陶醉装说“啊，太爽了...” ，小姑娘被逗得捂嘴笑，尴尬顿时化解。
-```
 
-```
-一次和陈皓、杨源去圆通电影院看电影，记得是《白头神探》，当片头出现华纳兄弟的logo时，陈皓脱口而出“...五笔”，杨源和我当场笑喷。
-```
+> 陈皓突如其来的幽默让人印象深刻，记得大学毕业后，有一次在顺城街一个清真馆子吃饭，服务员小姑娘不小心把茶壶里的热水滴到他的大腿上，正在紧张想要道歉，陈皓闭眼做陶醉装说“啊，太爽了...” ，小姑娘被逗得捂嘴笑，尴尬顿时化解。
+
+
+> 一次和陈皓、杨源去圆通电影院看电影，记得是《白头神探》，当片头出现华纳兄弟的logo时，陈皓脱口而出“...五笔”，杨源和我当场笑喷。
+
 ![./images](images/jnj_2.jpg)
 
 耗子大学时非常喜欢的歌曲，代他在这里和大家分享
+
 [!["Dying To Be Loved" by The Electric Boys](https://img.youtube.com/vi/punvkCJlMdE/0.jpg)](https://www.youtube.com/watch?v=punvkCJlMdE)
+
 
 [!["艳阳天专辑" by 窦唯](https://img.youtube.com/vi/GVPV1mhThEw/0.jpg)](https://www.youtube.com/watch?v=GVPV1mhThEw&list=PL27GYWxXTgN0yINy6sFIm7MmU4xHOQaip)
 
