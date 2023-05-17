@@ -38,6 +38,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [HeyAlaia - memory by Alaia](./HeyAlaia/Memory.md)
 - [tulvgengenr - R.I.P 左耳朵耗子](./tulvgengenr/Memory.MD)
 - [CaliCastle - 陈皓：以磊落之心，点亮科技之光](./CaliCastle/Memory.md)(原文：<https://cali.so/blog/an-ode-to-hao-chen>)
+- [GeJun79 - 以此文纪念我最尊敬的程序员耗哥](./GeJun79/Memory.MD)
 
 
 # 推文
