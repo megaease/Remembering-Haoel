@@ -38,14 +38,27 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [HeyAlaia - memory by Alaia](./HeyAlaia/Memory.md)
 - [tulvgengenr - R.I.P 左耳朵耗子](./tulvgengenr/Memory.MD)
 - [CaliCastle - 陈皓：以磊落之心，点亮科技之光](./CaliCastle/Memory.md)(原文：<https://cali.so/blog/an-ode-to-hao-chen>)
-- [GeJun79 - 以此文纪念我最尊敬的程序员耗哥](./GeJun79/Memory.MD)
+- [salmonls - 与左耳朵的故事](./salmonls/Memory.MD)
+- [laixintao - 缅怀陈皓](./laixintao/Mermory.MD)(原文：<https://www.kawabangga.com/posts/5068>)
+- [lanjingling - 与左耳朵的故事](./lanjingling/Memory.md)
+- [XinwenCheng - 纪念左耳朵耗子（陈皓）](./XinwenCheng/Memory.MD)(原文：<https://captnotes.com/rip_haoel>)
 - [w32zhong - memory from Wei](./w32zhong/Memory.md)
+- [GeJun79 - 以此文纪念我最尊敬的程序员耗哥](./GeJun79/Memory.MD)
+- [Atom - 与左耳朵的故事](./Atom/Memory.MD)
+- [xiao2shiqi - 与左耳朵的故事](./xiao2shiqi/Memory.MD)
+- [JacksonTian - 与左耳朵的故事](./JacksonTian/Memory.md)
+- [chenshuo - 纪念陈皓（左耳朵耗子）](./chenshuo/Memory.md)(原文：<https://giantchen.wordpress.com/2023/05/18/haoel/> 国内镜像：<https://www.cnblogs.com/Solstice/p/haoel.html>)
 
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
   - [Web Archive (archive.org)](https://archive.org/details/haoel_tweets)
 
+# Reference
+
+- [酷壳](https://coolshell.cn)
+
+- [酷壳（镜像）](https://coolshell.org)
 # TODO
 
 - [ ] 左耳朵耗子的技术分享视频 外链整理
