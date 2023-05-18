@@ -31,7 +31,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [agentwyz - upload memeory](./agentwyz/memeory.md)
 - [lijinliangyihao  - 我了解的陈皓](./lijinliangyihao/Memory.MD)
 - [repoog - the memories of Haoel from repoog](./repoog/Memory.MD)
-- [zhongl - Mermory from zhongl](./zhongl/Mermory.MD)
+- [zhongl - Mermory from zhongl](./zhongl/Memory.MD)
 - [ericliang - Memory with Heoel by Yile](./ericliang/Memory.MD)
 - [nickyfoto - 纪念耗子](./nickyfoto/Memory.MD)
 - [bensinos - Bensinos' memory of haoel](./bensinos/Memory.MD)
