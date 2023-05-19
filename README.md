@@ -14,17 +14,17 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 
 # 记录索引
 
-- [kevinzhou 与左耳朵的故事](./kevinzhow/Memory.MD)（原文：<https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh>）
-- [tg123 与左耳朵的故事](./tg123/Memory.MD)（原文：<https://twitter.com/farmer1992/status/1658055866992709632>）
-- [strongant 与左耳朵的故事](./strongant/Memory.MD)
-- [monswag 与左耳朵的一面之缘](./monswag/Memory.MD)
-- [yyx990803 与左耳朵的故事](./yyx990803/Memory.md)
-- [Lowei 与左耳朵的故事](./Lowei/Memory.MD)
-- [benja-wu 与左耳朵的故事](./benja-wu/Memory.MD)
-- [shawyeok 与左耳朵的故事](./shawyeok/Memory.md)
-- [jxd134 与左耳朵的故事](./jxd134/Memory.MD)
-- [sonofmagic's memory of haoel](./sonofmagic/Memory.md)
-- [zhao-kun 同学们和左耳朵的故事](./zhao-kun/Memory.MD)
+- [kevinzhou - 与左耳朵的故事](./kevinzhow/Memory.MD)（原文：<https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh>）
+- [tg123 - 与左耳朵的故事](./tg123/Memory.MD)（原文：<https://twitter.com/farmer1992/status/1658055866992709632>）
+- [strongant - 与左耳朵的故事](./strongant/Memory.MD)
+- [monswag - 与左耳朵的一面之缘](./monswag/Memory.MD)
+- [yyx990803 - 与左耳朵的故事](./yyx990803/Memory.md)
+- [Lowei - 与左耳朵的故事](./Lowei/Memory.MD)
+- [benja-wu - 与左耳朵的故事](./benja-wu/Memory.MD)
+- [shawyeok - 与左耳朵的故事](./shawyeok/Memory.md)
+- [jxd134 - 与左耳朵的故事](./jxd134/Memory.MD)
+- [sonofmagic - sonofmagic's memory of haoel](./sonofmagic/Memory.md)
+- [zhao-kun - 同学们和左耳朵的故事](./zhao-kun/Memory.MD)
   - [怀念陈皓同学（来自于同学MHC）](./zhao-kun/Memory.MD#怀念陈皓同学-来自同学mhc)
   - [来自于XF同学的朋友圈回忆](./zhao-kun/Memory.MD#来自与同学xf的朋友圈回忆)
   - [怀念耗子 - jnj](./zhao-kun/Memory.MD#怀念耗子jnj)
