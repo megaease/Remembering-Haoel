@@ -1,4 +1,4 @@
-# 缅怀陈浩
+# 缅怀陈皓
 中午12点去吃饭，突然听闻左耳朵耗子去世，周六晚上，心梗。震惊。
 
 <a href="./images/ch01.jpeg"><img src="http://niliu.me/wp-content/uploads/2023/05/ch01.jpeg" alt="" width="888" height="702" class="alignnone size-full wp-image-4147" /></a>
