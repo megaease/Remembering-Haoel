@@ -28,6 +28,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
   - [怀念陈皓同学（来自于同学MHC）](./zhao-kun/Memory.MD#怀念陈皓同学-来自同学mhc)
   - [来自于XF同学的朋友圈回忆](./zhao-kun/Memory.MD#来自与同学xf的朋友圈回忆)
   - [怀念耗子 - jnj](./zhao-kun/Memory.MD#怀念耗子jnj)
+  - [追梦人陈皓 - 来自同学XCH的朋友圈](./zhao-kun/Memory.MD#追梦人陈皓)
 - [agentwyz - upload memeory](./agentwyz/memeory.md)
 - [lijinliangyihao  - 我了解的陈皓](./lijinliangyihao/Memory.MD)
 - [repoog - the memories of Haoel from repoog](./repoog/Memory.MD)
