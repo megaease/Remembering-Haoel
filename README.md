@@ -48,6 +48,8 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [xiao2shiqi - 与左耳朵的故事](./xiao2shiqi/Memory.MD)
 - [JacksonTian - 与左耳朵的故事](./JacksonTian/Memory.md)
 - [chenshuo - 纪念陈皓（左耳朵耗子）](./chenshuo/Memory.md)(原文：<https://giantchen.wordpress.com/2023/05/18/haoel/> 国内镜像：<https://www.cnblogs.com/Solstice/p/haoel.html>)
+- [yunshen-1995 - memory from yunshen-1995](./yunshen-1995/Memory.MD)
+- [oilbeater - memory from oilbeater](./oilbeater/Memory.md)
 
 
 # 推文
