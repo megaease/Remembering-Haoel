@@ -50,7 +50,9 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [chenshuo - 纪念陈皓（左耳朵耗子）](./chenshuo/Memory.md)(原文：<https://giantchen.wordpress.com/2023/05/18/haoel/> 国内镜像：<https://www.cnblogs.com/Solstice/p/haoel.html>)
 - [yunshen-1995 - memory from yunshen-1995](./yunshen-1995/Memory.MD)
 - [oilbeater - memory from oilbeater](./oilbeater/Memory.md)
-
+- [yangwenmai - 与左耳朵的故事](./yangwenmai/memory.md)
+- [schemacs -  In memory of haoel](./schemacs/Memory.MD)
+- [waylau - 与左耳朵的故事](./waylau/Memory.md) 
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
