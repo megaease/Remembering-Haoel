@@ -54,6 +54,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [schemacs -  In memory of haoel](./schemacs/Memory.MD)
 - [waylau - 与左耳朵的故事](./waylau/Memory.md) 
 - [undus5 - 纪念耗子叔](./undus5/Memory.md) (原文： <https://blog.undus.net/posts/remembering-haoel/>)
+- [kekaiwang - 怀念 左耳朵皓哥](./kekaiwang/Memory.md)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
