@@ -58,6 +58,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [kekaiwang - 怀念 左耳朵皓哥](./kekaiwang/Memory.md)
 - [renny-ren - 纪念左耳朵耗子](./renny-ren/Memory.md)
 - [zouyingjie - 与皓哥的故事](./zouyingjie/Memory.MD)
+- [yuxh1996 - 缅怀左耳朵耗子](./yuxh1996/Memory.md)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
