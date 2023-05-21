@@ -29,6 +29,8 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
   - [来自于XF同学的朋友圈回忆](./zhao-kun/Memory.MD#来自与同学xf的朋友圈回忆)
   - [怀念耗子 - jnj](./zhao-kun/Memory.MD#怀念耗子jnj)
   - [追梦人陈皓 - 来自同学XCH的朋友圈](./zhao-kun/Memory.MD#追梦人陈皓)
+  - [纪念老友陈皓二三事 - 来自朋友ZWB](./zhao-kun/Memory.MD#纪念老友陈皓二三事)
+  - [纪念陈皓 - 来自陈皓高中校友](./zhao-kun/Memory.MD#纪念陈皓)
 - [agentwyz - upload memeory](./agentwyz/memeory.md)
 - [lijinliangyihao  - 我了解的陈皓](./lijinliangyihao/Memory.MD)
 - [repoog - the memories of Haoel from repoog](./repoog/Memory.MD)
@@ -58,6 +60,9 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [kekaiwang - 怀念 左耳朵皓哥](./kekaiwang/Memory.md)
 - [renny-ren - 纪念左耳朵耗子](./renny-ren/Memory.md)
 - [zouyingjie - 与皓哥的故事](./zouyingjie/Memory.MD)
+- [misselvexu - Interview with Hao Chen regarding APM (2017)](./misselvexu/Memory.md)
+- [nullsimon - memory for haoel from nullsimon](./nullsimon/Memory.md)
+- [lindaxuxlj - 纪念左耳朵耗子](./lindaxuxlj/Memory.MD)
 - [yuxh1996 - 缅怀左耳朵耗子](./yuxh1996/Memory.md)
 - [localvar - 在你身边工作，已是最好的回报](./localvar/Memory.md) (原文：<https://blog.localvar.cn/archives/remember-haoel>)
 
