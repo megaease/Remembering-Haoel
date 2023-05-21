@@ -11,8 +11,9 @@
 ### 软件架构发展视频
 
 <video width="1280" height="720" controls>
-  <source src="./video/evolution_of_software_architecture.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/1014558/158329772-dffa91c9-de05-4da0-abf3-efb03d9b6b62.mp4" type="video/mp4">
 </video>
+
 
 
 
