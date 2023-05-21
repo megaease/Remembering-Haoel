@@ -8,14 +8,7 @@
 
 因为之前就有关注皓哥，相应的也就会关注皓哥的公司MegaEase。
 
-### 软件架构发展视频
-
-<video width="1280" height="720" controls>
-  <source src="https://user-images.githubusercontent.com/1014558/158329772-dffa91c9-de05-4da0-abf3-efb03d9b6b62.mp4" type="video/mp4">
-</video>
-
-
-
+> [软件架构发展视频](https://user-images.githubusercontent.com/1014558/158329772-dffa91c9-de05-4da0-abf3-efb03d9b6b62.mp4)
 
 
 有一天正好在浏览皓哥公司官网，发现了软件架构发展的视频。我想把这个视频放到我视频号上，于是我就在之前皓哥公司的社群中加了皓哥。因为这个事情毕竟要先打声招呼，于是我就问皓哥要了这个视频的转发授权。皓哥欣然答应，如以下截图：
@@ -71,4 +64,3 @@
 **皓哥，R.I.P**
 
 完~
-
