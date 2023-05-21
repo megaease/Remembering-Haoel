@@ -66,6 +66,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [yuxh1996 - 缅怀左耳朵耗子](./yuxh1996/Memory.md)
 - [localvar - 在你身边工作，已是最好的回报](./localvar/Memory.md) (原文：<https://blog.localvar.cn/archives/remember-haoel>)
 - [MarkShen1992 - 与左耳朵的故事](./MarkShen1992/Memory.md)
+- [makerroot - 纪念左耳朵耗子](./makerroot/Memory.md)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
