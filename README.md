@@ -66,9 +66,12 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [yuxh1996 - 缅怀左耳朵耗子](./yuxh1996/Memory.md)
 - [localvar - 在你身边工作，已是最好的回报](./localvar/Memory.md) (原文：<https://blog.localvar.cn/archives/remember-haoel>)
 - [MarkShen1992 - 与左耳朵的故事](./MarkShen1992/Memory.md)
+- [wooparadog - Memory from wooparadog](./wooparadog/Memory.md)
+- [skywli - 缅怀左耳朵耗子](./skywli/Memory.md)
 - [makerroot - 纪念左耳朵耗子](./makerroot/Memory.md)
-- [tanglei.name - 与左耳朵的故事](./tanglei.name/Memory.md) (原文：<http://www.tanglei.name/blog/remembering-haoel.html>)
-
+- [tanglei.name - 与左耳朵的故事](./tl3shi/Memory.md) (原文：<http://www.tanglei.name/blog/remembering-haoel.html>)
+- [shenrenkui - 缅怀知遇之恩的耗子叔](./shenrenkui/Memory.MD)
+- [xiaomiwujiecao - xiaomiwujiecao关于陈皓先生的回忆](./xiaomiwujiecao/memory.md)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
