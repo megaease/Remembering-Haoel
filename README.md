@@ -72,6 +72,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [tanglei.name - 与左耳朵的故事](./tl3shi/Memory.md) (原文：<http://www.tanglei.name/blog/remembering-haoel.html>)
 - [shenrenkui - 缅怀知遇之恩的耗子叔](./shenrenkui/Memory.MD)
 - [xiaomiwujiecao - xiaomiwujiecao关于陈皓先生的回忆](./xiaomiwujiecao/memory.md)
+- [peteryuhang - 以此怀念皓叔](./peteryuhang/Memory.md)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
