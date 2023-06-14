@@ -51,7 +51,7 @@
 
 ## 五米之内
 
-2021.7.30 [全球互联网架构大会 GIAC](http://giac-history.msup.com.cn/) 在深圳南山区的华侨酒店，我第一次见到了耗子哥，他的演讲现场挤满了人，我在前面第一排站着，跟他相隔不到 5 米，听完了全程。
+2021.7.30 [全球互联网架构大会 GIAC](http://giac-history.msup.com.cn/) 在深圳南山区的华侨酒店举行，正好21-22年我在深圳工作。因为公司参加活动，使我有机会第一次见到了耗子哥，他的演讲现场挤满了人，我在前面第一排站着，跟他相隔不到 5 米，听完了全程。
 
 演讲主题是“Service Mesh + Java 能干哪些牛叉的事”，但演讲的具体内容我忘得差不多了。耗子哥比我想象的胖了不少，声音很浑厚，看得出对程序员群体很愿意交流和分享。
 
@@ -81,5 +81,5 @@
 - [http://blog.cleancoder.com](http://blog.cleancoder.com/)
 - Paul：[http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html)
 
-<p style="text-align: right;">2023.6.15 深夜于大连</p>
+<p align="right">2023.6.15 深夜于大连</p>
                     
