@@ -64,8 +64,8 @@
 当天互联网大会结束后，耗子哥在大屏幕留下了自己微信的二维码，我马上加上了，会后私下问了一些问题，耗子哥一一作了回答（如下图）
 
 <div  align="center">  
-    <img src="./images/03.png" width = "250" height = "500" style="display: inline-block" />
-    <img src="./images/04.png" width = "250" height = "500" style="display: inline-block" />
+    <img src="./images/03.png" width = "250" height = "600" style="display: inline-block" />
+    <img src="./images/04.png" width = "250" height = "600" style="display: inline-block" />
 </div>
 
 耗子哥一个观点是要“**尽量做有产出性的东西，而不是支持性的东西**”，也就是能产生价值的或者帮助别人产生价值的东西。
@@ -81,4 +81,5 @@
 - [http://blog.cleancoder.com](http://blog.cleancoder.com/)
 - Paul：[http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html)
 
-2023.6.15 深夜于大连
+<p style="text-align: right;">2023.6.15 深夜于大连</p>
+                    
