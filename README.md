@@ -73,6 +73,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [shenrenkui - 缅怀知遇之恩的耗子叔](./shenrenkui/Memory.MD)
 - [xiaomiwujiecao - xiaomiwujiecao关于陈皓先生的回忆](./xiaomiwujiecao/memory.md)
 - [peteryuhang - 以此怀念皓哥](./peteryuhang/Memory.md)
+- [roostinghawk - roostinghawk's story with haoel](./roostinghawk/Memory.MD)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
