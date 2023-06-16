@@ -11,12 +11,19 @@
 2018年，订阅了左耳听风专栏，和群里的兄弟们一起坚持`ARTS`能力训练活动，我坚持了43周[ARTS](https://github.com/nocdr/arts)，虽然产出的质量不高，但是过程中的收获非常大，也让我养成了阅读英文文档的习惯，并且发掘了很多高质量的技术网站，还很费劲的刷了一些leetcode题。在读友会群里，有一次完成皓哥布置的命题作文《关于日志的那些事儿》，还得到了皓哥的表扬鼓励，当时非常激动的截了图。
 
 >Hao Chen [Yesterday at 2:22 PM]
+>
 >@大龙 你的日志写的不错，还有很多引用！
+>
 > Hao Chen [18 hours ago]
+>
 > 但是还不够，还要再多找找. wikipedia上可以找找相关的词条。 (edited)
+>
 > Hao Chen [17 hours ago]
+>
 > 日志的格式分两种，一种是access log（像nginx/apache这样的），这是有标准规范的，另一种是runtime log，这是运行时的程序的行为日志，就是需要有log level的，也有输出的格式要求。
+>
 > Hao Chen [17 hours ago]
+>
 > 然后，日志归档写的还不够，没有细节。
 
 ![mntfun](./mntfun.png)
