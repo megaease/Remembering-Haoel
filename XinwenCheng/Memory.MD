@@ -1,6 +1,8 @@
+![](https://captnotes.github.io/images/featured_rip_hao_chen.jpg)
+
 刚刚看到一条消息，非常突然！
 
-[![](https://captnotes.com/wp-content/uploads/2023/05/wp_editor_md_a61b72ef57f6a3b3e3292a3300d09df7.jpg)](https://captnotes.com/wp-content/uploads/2023/05/wp_editor_md_a61b72ef57f6a3b3e3292a3300d09df7.jpg)
+![](https://captnotes.github.io/images/illustration_rip_haoel_01.jpg)
 
 就在几天前的 5 月 10 号，耗哥和我还在微信上聊了四十多分钟视频，没想到 13 号晚上人就没了。刚看到这个消息，以为是在恶搞，但是冷静下来一番查证，基本属实了。
 
@@ -8,7 +10,7 @@
 
 我看到技术圈中一些他生前的朋友纷纷惋惜，也有懊悔拖延了与他见面的。我很庆幸当时读了文章有想法就立即实施，而没有拖着“过阵子再说”，要不然也没有“以后”了。
 
-[![](https://captnotes.com/wp-content/uploads/2023/05/wp_editor_md_5be9b98c963f1e9d9ac13109fad230b8.jpg)](https://captnotes.com/wp-content/uploads/2023/05/wp_editor_md_5be9b98c963f1e9d9ac13109fad230b8.jpg)
+![](https://captnotes.github.io/images/illustration_rip_haoel_02.jpg)
 
 这条推文就是耗哥和我聊到过往工作经历后的有感而发，也算是对晚辈的一份劝诫吧。我也认为卖惨式的“奋斗”并不能打动市场，顶多显得失败并不是因为“懒惰”。然而，即便是注重作息的耗哥，竟然也以这样突然的方式离开了。
 
