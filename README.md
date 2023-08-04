@@ -44,7 +44,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [salmonls - 与左耳朵的故事](./salmonls/Memory.MD)
 - [laixintao - 缅怀陈皓](./laixintao/Mermory.MD)(原文：<https://www.kawabangga.com/posts/5068>)
 - [lanjingling - 与左耳朵的故事](./lanjingling/Memory.md)
-- [XinwenCheng - 纪念左耳朵耗子（陈皓）](./XinwenCheng/Memory.MD)(原文：<https://captnotes.com/rip_haoel>)
+- [麦机长 - 纪念左耳朵耗子（陈皓）](./XinwenCheng/Memory.MD)(原文：<https://captnotes.github.io/rip-haoel>)
 - [w32zhong - memory from Wei](./w32zhong/Memory.md)
 - [GeJun79 - 以此文纪念我最尊敬的程序员耗哥](./GeJun79/Memory.MD)
 - [Atom - 与左耳朵的故事](./Atom/Memory.MD)
