@@ -75,6 +75,7 @@ PR 一旦被接受，我们会更新 README 中的 index 以方便快速索引�
 - [peteryuhang - 以此怀念皓哥](./peteryuhang/Memory.md)
 - [roostinghawk - roostinghawk's story with haoel](./roostinghawk/Memory.md)
 - [liferyan - 纪念左耳朵耗子](./liferyan/Memory.md)
+- [anneincoding - 纪念 左耳朵耗子 - 与 陈皓 老师的故事](./anneincoding/Memory.md)
 
 # 推文
 - [推文 (仅公开内容)](./Tweets/)
